@@ -4,9 +4,9 @@ A Driver Alert System is a safety system designed to monitor a driver's behavior
 # Working of Model
 ## Links
 YOLOv5 model
-Ultralytics YOLOv5: https://github.com/ultralytics/yolov5
+- Ultralytics YOLOv5: https://github.com/ultralytics/yolov5
 Used for object detection
-Pytorch Installation
+- Pytorch Installation
 PyTorch Installation: https://pytorch.org/get-started/locally/
 ## Libraries Used
 - OpenCV – face and eye detection.

@@ -9,8 +9,8 @@ Used for object detection
 Pytorch Installation
 PyTorch Installation: https://pytorch.org/get-started/locally/
 ## Libraries Used
-OpenCV – face and eye detection.
-TensorFlow –keras uses TensorFlow as backend.
+! OpenCV – face and eye detection.
+! TensorFlow –keras uses TensorFlow as backend.
 Keras – to build our classification model.
 Pygame – to play alarm sound
 PyTorch - provides us with three object detection models: Faster R-CNN with a ResNet50 backbone, Faster R-CNN with a MobileNet v3 backbone, RetinaNet with a ResNet50 backbone 

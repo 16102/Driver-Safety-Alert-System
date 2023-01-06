@@ -8,7 +8,7 @@ Ultralytics YOLOv5: https://github.com/ultralytics/yolov5
 Used for object detection
 Pytorch Installation
 PyTorch Installation: https://pytorch.org/get-started/locally/
-## Libraries installation
+## Libraries Used
 ![driver d](https://user-images.githubusercontent.com/92366931/210950335-1385467f-86c2-4247-b875-0fac6de16b68.jpg)
 
 

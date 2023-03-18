@@ -14,7 +14,7 @@ PyTorch Installation: https://pytorch.org/get-started/locally/
 
 The cnnCat.2h5 model can be cloned by this link-
 https://github.com/16102/DriverAwakeAssist
-model =  load_model('DriverAwakeAssist/cnnCat2.h5')
+-model =  load_model('DriverAwakeAssist/cnnCat2.h5')
 
 ## Libraries Used
 - OpenCV – face and eye detection.
